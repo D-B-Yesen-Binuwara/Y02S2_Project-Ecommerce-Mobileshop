@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Backend/MackTech/MackTech/MackTech.iml" filepath="$PROJECT_DIR$/Backend/MackTech/MackTech/MackTech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/se-group-project-group-11-phone_-_accessories.iml" filepath="$PROJECT_DIR$/.idea/se-group-project-group-11-phone_-_accessories.iml" />
+    </modules>
+  </component>
+</project>
